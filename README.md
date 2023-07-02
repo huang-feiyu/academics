@@ -23,7 +23,7 @@ Both the questions lead me to *Human-Computer Interaction* (HCI).
 
 ### Skills
 
-* Linguistic: Chinese Native | English Fluent (IELTS 7.0)
+* Linguistic: Chinese Native \| English Fluent (IELTS 7.0)
 * Programming: C/C++, Java, Verilog, Go (with web development), Godot (with 2D game development)
 * Developer Tools: Shell, Git/GitHub, Linux
 * General Skills: Markdown, LaTeX, MS Office
