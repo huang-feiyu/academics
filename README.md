@@ -9,8 +9,8 @@
 
 ## Current Work
 
-* Lead a line of research on VR
-* Help to develop Unity 3D applications
+* Lead one project on VR area (status: background research)
+* Help to develop Unity 3D applications for user study
 
 ## Interests
 
