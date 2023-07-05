@@ -7,9 +7,10 @@
 
 ![Feiyu Huang](./assets/huang-in-lab.jpg)
 
-## Current Research
+## Current Work
 
-**TODO**
+* Lead a line of research on VR
+* Help to develop Unity 3D applications
 
 ## Interests
 
