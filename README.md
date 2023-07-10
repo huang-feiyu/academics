@@ -9,7 +9,8 @@
 
 ## Current Work
 
-* Conduct one project on VR area (status: background research)
+* Conduct one project in VR area (status: <s>motivation, related work, possible design</s> **Deprecated**)
+* Conduct one project in the intersection of VR area and the disabled (status: research direction pending)
 * Help to develop Unity 3D applications for user study
 
 ## Interests
