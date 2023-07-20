@@ -9,8 +9,8 @@
 
 ## Current Work
 
-* Conduct one project in VR area (status: <s>motivation, related work, possible design</s> **Deprecated**)
-* Conduct one project in the intersection of VR area and the disabled (status: further plan pending)
+* Conduct one project in VR area (`status`: <s>motivation, related work, possible design</s> **Deprecated**)
+* Conduct one project in the intersection of VR area and the disabled (`status`: ~~further plan pending~~, developing App-1)
 * Help to develop Unity 3D applications for user study
 
 ## Interests
@@ -26,7 +26,7 @@ Both the questions lead me to *Human-Computer Interaction* (HCI).
 ## Skills
 
 * Linguistic: Chinese Native \| English Fluent (IELTS 7.0)
-* Programming: C/C++, Java, Verilog, Go (with web development), Godot (with 2D game development)
+* Programming: C/C++, C#, Java, Verilog, Go, Godot
 * Developer Tools: Shell, Git/GitHub, Linux
 * General Skills: Markdown, LaTeX, MS Office
 * Soft Skills: Problem-Solving, Communication, Cooperation
