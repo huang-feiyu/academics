@@ -10,8 +10,9 @@
 ## Current Work
 
 * Conduct one project in VR area (`status`: <s>motivation, related work, possible design</s> **Deprecated**)
-* Conduct one project in the intersection of VR area and the disabled (`status`: ~~further plan pending~~, finding motivation, design space)
+* Conduct one project in the intersection of VR area and the disabled (`status`: writing *Introduction* & *Related Work*)
 * Help to develop Unity3D applications for other research
+* Help to do something trivial
 
 ## Interests
 
