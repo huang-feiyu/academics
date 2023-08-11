@@ -9,15 +9,15 @@
 
 ## Current Work
 
-* Conduct one project in VR area (`status`: <s>motivation, related work, possible design</s> **Deprecated**)
-* Conduct one project in the intersection of VR area and the disabled (`status`: writing *Introduction* & *Related Work* — Reading related papers to get some insights)
+* Conduct one line of research for enhancing experience of DHH people in VR (`status`: developing for co-design workshop & writing *Related Work*)
 * Help to develop Unity3D applications for other research
 * Help to do something trivial
 
 ## Interests
 
-1. How to help the blind walking in modern cities?
-2. How to get a full experience in a virtual world without going other places?
+1.How to help the deaf hear others?
+2. How to help the blind walk in modern cities?
+3. How to get a full experience in a virtual world without going other places?
 
 Both the questions lead me to *Human-Computer Interaction* (HCI).
 
@@ -29,5 +29,5 @@ Both the questions lead me to *Human-Computer Interaction* (HCI).
 * Linguistic: Chinese Native \| English Fluent (IELTS 7.0)
 * Programming: C/C++, C#, Java, Verilog, Go, Godot
 * Developer Tools: Shell, Git/GitHub, Linux
-* General Skills: Markdown, LaTeX, MS Office
+* General Skills: Vim, Markdown, LaTeX, MS Office
 * Soft Skills: Problem-Solving, Communication, Cooperation
