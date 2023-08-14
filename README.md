@@ -15,7 +15,7 @@
 
 ## Interests
 
-1.How to help the deaf hear others?
+1. How to help the deaf hear others?
 2. How to help the blind walk in modern cities?
 3. How to get a full experience in a virtual world without going other places?
 
