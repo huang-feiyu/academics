@@ -1,7 +1,6 @@
 # Feiyu Huang | Academic Page
 
-> **NOTE**
-> Personal usage: [Frequently Use](https://gist.github.com/huang-feiyu/f78549e6282399338e4d08a7c7a21089)
+> [Personal Lists](https://gist.github.com/huang-feiyu/f78549e6282399338e4d08a7c7a21089)
 
 **Feiyu Huang** (黄飞宇) [[CV](https://github.com/huang-feiyu/academics/blob/main/assets/CV.pdf)] [[Email](mailto:0711feiyu@gmail.com)] [[GitHub](https://github.com/huang-feiyu)] [[Blog (博客)](https://xn--29s704loyd.com/)]
 
